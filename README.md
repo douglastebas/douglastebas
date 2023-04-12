@@ -1,6 +1,6 @@
 <h1 align="left"> Hello World! 🤙 </h1>
 
-◾ Meu nome é Douglas, tenho 29 anos e sou movido a programação! Faço isso há mais de 10 anos e meu principal objetivo é ser a melhor versão de mim mesmo tanto profissionalmente quanto pessoalmente!
+◾ Meu nome é Douglas, tenho 29 anos e sou movido a programação! Estou na área há mais 10 anos e meu principal objetivo é ser a melhor versão de mim mesmo tanto profissionalmente quanto pessoalmente!
 
  
 #### 🖥️ Linguagens, frameworks e bibliotecas
